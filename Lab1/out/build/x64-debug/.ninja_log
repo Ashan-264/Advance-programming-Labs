@@ -1,0 +1,7 @@
+# ninja log v6
+16	48	7794159255525118	C:/Users/User/Documents/Lab1/out/build/x64-debug/CMakeFiles/cmake.verify_globs	23ac522115cca26d
+59	1120	7794151467345535	CMakeFiles/BuzzyDefender.dir/code/ECE_LaserBlast.cpp.obj	7d8ee99b11f6b377
+50	995	7794156651211310	CMakeFiles/BuzzyDefender.dir/code/ECE_Enemy.cpp.obj	d5aa1f3765bd18e7
+986	1480	7794159265226198	BuzzyDefender.exe	69f38b7702c86a37
+45	1004	7794156651161665	CMakeFiles/BuzzyDefender.dir/code/ECE_Buzzy.cpp.obj	14e68453f93cb155
+51	985	7794159255885550	CMakeFiles/BuzzyDefender.dir/code/main.cpp.obj	a11c0998487cf1a6
